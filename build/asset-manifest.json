@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39175b69.css",
+    "main.js": "/static/js/main.c9894233.js",
+    "static/media/applauding_dicaproi.gif": "/static/media/applauding_dicaproi.6c3d50c2ece063eee483.gif",
+    "static/media/gif3.gif": "/static/media/gif3.37aa7359eaa7e5a0db74.gif",
+    "static/media/gif5.gif": "/static/media/gif5.ed2d0a1a1fa09f4d2c3e.gif",
+    "static/media/gif8.gif": "/static/media/gif8.dc9933195f66ad729b42.gif",
+    "static/media/gif4.gif": "/static/media/gif4.fd63830ac38a074eadbd.gif",
+    "static/media/applausekenny.gif": "/static/media/applausekenny.a17f205be6af70cb2eed.gif",
+    "static/media/git.gif": "/static/media/git.c7cda6930a646b79936a.gif",
+    "static/media/kennyshead.png": "/static/media/kennyshead.134c3a5b4256fdccaf0f.png",
+    "static/media/gif14.gif": "/static/media/gif14.0ba742b8f0db36d26b6a.gif",
+    "static/media/giphy.gif": "/static/media/giphy.3d90ce33ea254b3e538c.gif",
+    "static/media/south park.ttf": "/static/media/south park.68a50dbb420c476b9fd6.ttf",
+    "static/media/crypto-keeny-high-resolution-logo-black-on-transparent-background.png": "/static/media/crypto-keeny-high-resolution-logo-black-on-transparent-background.f817c861d4f367cf7d06.png",
+    "index.html": "/index.html",
+    "main.39175b69.css.map": "/static/css/main.39175b69.css.map",
+    "main.c9894233.js.map": "/static/js/main.c9894233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39175b69.css",
+    "static/js/main.c9894233.js"
+  ]
+}
